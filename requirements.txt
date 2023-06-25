@@ -1,1 +1,3 @@
+© @WMZ_IND & @Bot_Master
+
 ttbotapi==0.3.0
