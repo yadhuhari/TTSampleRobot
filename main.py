@@ -1,4 +1,5 @@
 import ttbotapi
+import random
 
 bot = ttbotapi.Bot(access_token='wko_5FDZB0gOIGBaKizYBYdCIAX2sz4mIR2nxnmOrXo')
 
