@@ -1,4 +1,4 @@
-© @WMZ_IND & @Bot_Master
+# © @WMZ_IND & @Bot_Master
 
 import ttbotapi
 import random
