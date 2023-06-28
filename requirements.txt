@@ -1,3 +1,3 @@
 # © @WMZ_IND & @Bot_Master
 
-python-telegram-bot==20.3.0
+ttbotapi 0.3.0
